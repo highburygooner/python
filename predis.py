@@ -16,3 +16,5 @@ muser='user:234487'
 marticle='article:10048'
 article_vote(mconn,muser,marticle)
 print(mconn.smembers('voted:10048'))
+
+#chapter 1
